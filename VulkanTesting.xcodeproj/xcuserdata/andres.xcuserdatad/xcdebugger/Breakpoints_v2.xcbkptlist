@@ -14,8 +14,8 @@
             filePath = "VulkanTesting/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "148"
-            endingLineNumber = "148"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
             landmarkName = "createInstance()"
             landmarkType = "7">
          </BreakpointContent>
@@ -23,32 +23,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "93C9D231-3B47-4202-8DCA-59D0B0BE68F7"
+            uuid = "616C8E4E-12D2-4665-A7F9-03FF51374517"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "VulkanTesting/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "263"
-            endingLineNumber = "263"
-            landmarkName = "createLogicalDevice()"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "isDeviceSuitable(device)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2E49D523-19D9-4289-8638-7A10AC484E83"
+            uuid = "87FC65A3-A448-44C6-B7AF-CA6C0609E9FC"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "VulkanTesting/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
-            landmarkName = "createLogicalDevice()"
+            startingLineNumber = "411"
+            endingLineNumber = "411"
+            landmarkName = "isDeviceSuitable(device)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
