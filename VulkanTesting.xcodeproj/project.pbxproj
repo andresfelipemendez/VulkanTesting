@@ -32,6 +32,8 @@
 		41340EC326010A6B00B4B05E /* libglfw3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libglfw3.a; path = ../../../../usr/local/lib/libglfw3.a; sourceTree = "<group>"; };
 		41340EC526010A8E00B4B05E /* libvulkan.1.2.170.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.2.170.dylib; path = ../../../../usr/local/lib/libvulkan.1.2.170.dylib; sourceTree = "<group>"; };
 		41340EC726010AEE00B4B05E /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../opt/homebrew/Cellar/glfw/3.3.3/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
+		416A5135261190B100BE69F3 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		416A5136261190E200BE69F3 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		41BE40952600FE43008B1337 /* VulkanTesting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VulkanTesting; sourceTree = BUILT_PRODUCTS_DIR; };
 		41BE40982600FE43008B1337 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -80,6 +82,8 @@
 			isa = PBXGroup;
 			children = (
 				41BE40982600FE43008B1337 /* main.cpp */,
+				416A5135261190B100BE69F3 /* shader.vert */,
+				416A5136261190E200BE69F3 /* shader.frag */,
 			);
 			path = VulkanTesting;
 			sourceTree = "<group>";
