@@ -16,7 +16,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "750"
             endingLineNumber = "750"
-            landmarkName = "chooseSwapPresentMode(availablePresentModes)"
+            landmarkName = "createShaderModule(code)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -32,7 +32,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "754"
             endingLineNumber = "754"
-            landmarkName = "chooseSwapPresentMode(availablePresentModes)"
+            landmarkName = "createShaderModule(code)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -80,8 +80,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "71"
             endingLineNumber = "71"
-            landmarkName = "HelloTriangleApplication"
-            landmarkType = "3">
+            landmarkName = "SwapchainSupportDetails"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -160,7 +160,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "654"
             endingLineNumber = "654"
-            landmarkName = "createCommandPool()"
+            landmarkName = "createFramebuffers()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -224,8 +224,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "154"
             endingLineNumber = "154"
-            landmarkName = "cleanup()"
-            landmarkType = "7">
+            landmarkName = "HelloTriangleApplication"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "D7F8B3AD-C10D-4283-91E1-C4CCAC8D5063 - 25b9e63c8a848936"
@@ -272,8 +272,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "624"
             endingLineNumber = "624"
-            landmarkName = "HelloTriangleApplication"
-            landmarkType = "3">
+            landmarkName = "createGraphicsPipeline()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -288,7 +288,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "625"
             endingLineNumber = "625"
-            landmarkName = "createFramebuffers()"
+            landmarkName = "createGraphicsPipeline()"
             landmarkType = "7">
             <Locations>
                <Location
@@ -336,7 +336,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "653"
             endingLineNumber = "653"
-            landmarkName = "createCommandPool()"
+            landmarkName = "createFramebuffers()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -352,7 +352,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "187"
             endingLineNumber = "187"
-            landmarkName = "createInstance()"
+            landmarkName = "cleanup()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -384,7 +384,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "256"
             endingLineNumber = "256"
-            landmarkName = "createSurface()"
+            landmarkName = "setupDebugMessenger()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -400,7 +400,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "266"
             endingLineNumber = "266"
-            landmarkName = "pickPhysicalDevice()"
+            landmarkName = "createSurface()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -496,7 +496,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "650"
             endingLineNumber = "650"
-            landmarkName = "createCommandPool()"
+            landmarkName = "createFramebuffers()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -576,8 +576,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "255"
             endingLineNumber = "255"
-            landmarkName = "HelloTriangleApplication"
-            landmarkType = "3">
+            landmarkName = "setupDebugMessenger()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
