@@ -57,6 +57,10 @@ flags = [
     '.', 
     '-isystem', 
     '/usr/include/', 
+    '-I', 
+    '/opt/homebrew/Cellar/glm/0.9.9.8/include/',
+    '-I', 
+    '/opt/homebrew/Cellar/glfw/3.3.3/include/',
 ]
 
 
