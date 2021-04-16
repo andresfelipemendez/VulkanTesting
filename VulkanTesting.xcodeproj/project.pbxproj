@@ -29,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		410B952726256721009C6600 /* stb_image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stb_image.h; sourceTree = "<group>"; };
 		41340EC326010A6B00B4B05E /* libglfw3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libglfw3.a; path = ../../../../usr/local/lib/libglfw3.a; sourceTree = "<group>"; };
 		41340EC526010A8E00B4B05E /* libvulkan.1.2.170.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.2.170.dylib; path = ../../../../usr/local/lib/libvulkan.1.2.170.dylib; sourceTree = "<group>"; };
 		41340EC726010AEE00B4B05E /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../opt/homebrew/Cellar/glfw/3.3.3/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 		41BE40972600FE43008B1337 /* VulkanTesting */ = {
 			isa = PBXGroup;
 			children = (
+				410B952726256721009C6600 /* stb_image.h */,
 				41BE40982600FE43008B1337 /* main.cpp */,
 				416A5135261190B100BE69F3 /* shader.vert */,
 				416A5136261190E200BE69F3 /* shader.frag */,
