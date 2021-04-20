@@ -37,6 +37,7 @@
 		416A5136261190E200BE69F3 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		41BE40952600FE43008B1337 /* VulkanTesting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VulkanTesting; sourceTree = BUILT_PRODUCTS_DIR; };
 		41BE40982600FE43008B1337 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		41D43099262E6DA00062F691 /* tiny_obj_loader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tiny_obj_loader.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 		41BE40972600FE43008B1337 /* VulkanTesting */ = {
 			isa = PBXGroup;
 			children = (
+				41D43099262E6DA00062F691 /* tiny_obj_loader.h */,
 				410B952726256721009C6600 /* stb_image.h */,
 				41BE40982600FE43008B1337 /* main.cpp */,
 				416A5135261190B100BE69F3 /* shader.vert */,
